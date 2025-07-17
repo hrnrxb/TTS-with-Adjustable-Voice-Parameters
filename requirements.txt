@@ -6,4 +6,3 @@ gradio
 TTS
 numpy
 soundfile
-tempfile
