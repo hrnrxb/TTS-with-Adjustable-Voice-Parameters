@@ -6,8 +6,7 @@ Welcome to the Text-to-Speech project! This is an interactive demo allowing you 
 
 ## 🚀 Live Demo
 
-You can try the live demo of this project directly on Hugging Face Spaces:
-[https://huggingface.co/spaces/hrnrxb/TTS-with-Adjustable-Voice-Parameters](https://huggingface.co/spaces/hrnrxb/TTS-with-Adjustable-Voice-Parameters)
+* [🌐 **Try it on Hugging Face Spaces**](https://huggingface.co/spaces/hrnrxb/TTS-with-Adjustable-Voice-Parameters)
 
 ---
 
